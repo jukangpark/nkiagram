@@ -1,6 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Nkiagram
 
-## Getting Started
+![alt text](image.png)
+
+Nkigram is a social networking service (SNS) designed for internal use within Nkia, featuring an interface and user experience similar to that of Instagram. This platform allows employees of Nkia to connect, share, and engage in a familiar social media environment tailored specifically to the company’s internal culture and communication needs.
+
+### Feature
+
+• **Familiar UI**: Nkigram offers a user interface that closely resembles Instagram, ensuring that users feel comfortable and can easily navigate the platform.
+• **Internal Networking**: The platform is designed to foster communication and collaboration among Nkia employees, allowing them to share updates, photos, and connect with colleagues.
+• **Content Sharing**: Users can post images, like, and comment on posts, much like they would on a typical social media platform.
+• **Privacy and Security**: Since Nkigram is built for internal use, it incorporates enhanced privacy and security measures to protect company data and employee interactions.
+
+### Technology Stack
+
+• **Frontend**: Built with Next.js and Tailwind CSS for a responsive and dynamic user interface.
+• **Backend**: Powered by Firebase, providing robust data management and real-time updates.
+• **Authentication**: Integrated with NextAuth for secure user authentication within the company.
+• **State Management**: Utilizes Recoil for efficient state management across the application.
+
+### Getting Started
 
 First, run the development server:
 
@@ -16,21 +34,17 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Contribution
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+We welcome contributions from Nkia employees! If you have suggestions for new features or have found a bug, please submit an issue or a pull request.
 
-## Learn More
+### Contact
 
-To learn more about Next.js, take a look at the following resources:
+For more information or support, please contact this email:
+skyxxx9339@naver.com
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Contributors
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<a href="https://github.com/jukangpark/nkiagram/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=jukangpark/nkiagram" alt="contributors"/>
+</a>
