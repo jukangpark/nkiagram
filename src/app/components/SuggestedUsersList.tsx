@@ -1,5 +1,5 @@
 const SuggestedUserList = () => {
-  return <div>Suggedsted For You</div>;
+  return <div className="text-gray-400">Suggedsted For You</div>;
 };
 
 export default SuggestedUserList;
